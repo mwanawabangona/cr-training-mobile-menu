@@ -32,6 +32,15 @@ header {
   display: none;
 }
 
+.close-btn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav {
+  flex-direction: column;
+}
+
 #logo {
   font-family: "Roboto", sans-serif;
   font-style: normal;

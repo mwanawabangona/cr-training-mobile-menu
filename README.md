@@ -11,9 +11,9 @@ This is a portfolio project based on [this Figma design](https://www.figma.com/f
  ## Getting Started
 
  To get a local copy up and running follow these simple example steps.
-- git clone  `https://github.com/mwanawabangona`
+- git clone  `https://github.com/mwanawabangona/cr-training-mobile-menu`
 
-- move to the directory using `cd Review-mobile-menu`
+- move to the directory using `cd cr-trainimg-mobile-menu`
 
 - open with your preffered code editor.
 
